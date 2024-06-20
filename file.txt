@@ -1,5 +1,4 @@
 1st line in new file
 Added a new line in the file dsajk
 3rd line inserted from local PC
-4th line changed from cloud
-dadsad 
+4th line merged
